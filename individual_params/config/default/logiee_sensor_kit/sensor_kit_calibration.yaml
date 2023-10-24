@@ -1,22 +1,22 @@
 sensor_kit_base_link:
   velodyne_rear_base_link:
-    x: -0.09
+    x: 0.0
     y: 0.0
-    z: 0.45
+    z: 0.0
     roll: 0.0
     pitch: 0.0
     yaw: 3.1415926535
   velodyne_front_base_link:
-    x: 0.41
+    x: 0.5
     y: 0.0
-    z: 0.45
+    z: 0.0
     roll: 0.0
     pitch: 0.0
     yaw: 0.0
   microstrain/imu_link:
-    x: -0.055
+    x: 0.035
     y: 0.0
-    z: 0.135
+    z: -0.315
     roll: 0.0
     pitch: 3.1415926535
     yaw: 3.1415926535
